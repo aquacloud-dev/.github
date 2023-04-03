@@ -6,7 +6,6 @@
   ],
   "filePatterns": [
     "package.json",
-    "pnpm-lock.yaml",
-    "pnom-workspace.yaml"
+    "pnpm-lock.yaml"
   ]
 }
